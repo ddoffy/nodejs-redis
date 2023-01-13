@@ -1,0 +1,23 @@
+{
+  "name": "nodejs-redis",
+  "version": "1.0.1",
+  "description": "sample using nodejs to connect to redis",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "doffy",
+    "cuong",
+    "cuongnsm",
+    "node",
+    "nodejs",
+    "redis"
+  ],
+  "author": "D. Doffy",
+  "license": "ISC",
+  "dependencies": {
+    "redis": "^4.5.1"
+  }
+}
